@@ -14,6 +14,8 @@ This project demonstrates my understanding of **OOP design principles**, mainly 
 
 This application supports basic paint features **except for the polyline feature** which we could not implement due to the time constraints and other internal team issues.
 
+The paint demonstration is in this repository, labelled as "PaintAppDemo.mp4".
+
 ---
 
 ## Features
